@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ForumMannen
-- 👀 Computers, oldschool videogames, tabletop rpg, boardgames, hunting and fishing.
-- 🌱 I’m currently on the path to become a Web Developer.
-- 💞️ My two lovely kids and wife!
-- 📫
-
-
+🖖 JavaScript/TypeScript
+🔮 React
+🔋 Node.JS/Express
+📊 MongoDB
+🏹 Blazor
+⛳️ .Net Core
 
 <!---
 ForumMannen/ForumMannen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
