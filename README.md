@@ -1,9 +1,9 @@
-🖖 JavaScript/TypeScript
-🔮 React
-🔋 Node.JS/Express
-📊 MongoDB
-🏹 Blazor
-⛳️ .Net Core
+- 🖖 JavaScript/TypeScript
+- 🔮 React
+- 🔋 Node.JS/Express
+- 📊 MongoDB
+- 🏹 Blazor
+- ⛳️ .Net Core
 
 <!---
 ForumMannen/ForumMannen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
