@@ -1,9 +1,4 @@
-- 🖖 JavaScript/TypeScript
-- 🔮 React
-- 🔋 Node.JS/Express
-- 📊 MongoDB
-- 🏹 Blazor
-- ⛳️ .Net Core
+- JavaScript/TypeScript - Vue - Laravel - Node.JS/Express -
 
 <!---
 ForumMannen/ForumMannen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
